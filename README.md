@@ -6,8 +6,10 @@ All of my latest investment strategies that I'm open to sharing publically will 
 
 # What
 
-## spacetime = 8/11 + 2020 + ~13.8*10^9 + -> 8/11 + 2021 + ~13.8*10^9
+## spacetime = 8/11 + 2020 + ~13.8B to 8/11 + 2021 + ~13.8B
 Q's result = +33.82% 
 Example: $100 invested at 8/11 + 2020 + ~13.8*10^9 became $133.82 at 8/11 + 2021 + ~13.8*10^9
 
 S&P 500 index = ?
+
+~ Wang-Zhao-Liu Q
