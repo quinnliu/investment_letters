@@ -1,20 +1,25 @@
 # Why 
-In the spirit of Warren Buffett & Charlie Munger I also plan on writing an annual investment letter detailing my investment strategy & results. 
+In the spirit of Warren Buffett & Charlie Munger I also plan on writing an annual investment letter detailing my investment strategy & results. As someone that had to teach myself how to became a value investor I hope this file saves you some 
+time & provides extremely pratically useful information. 
 
 # How
-All of my latest investment strategies that I'm open to sharing publically will be shared here & periodically updated in unpredicted spacetimes.
+All of my latest investment strategies that I'm open to sharing publically will be shared here & only here. I will periodically update this README.md file. 
+
+All questions directed to me can be asked by creating an issue in this public repo. 
 
 # What
 
-## spacetime = 8/11 + 2020 + ~13.8B to 8/11 + 2021 + ~13.8B
+I'm officially starting this at spacetime = `9/8 + 2021 + 13.8*10^9` in Amarillo, Texas, USA, Earth.
 
-### Results
-Q's result = `+33.82%`  
-Example: `$100` invested at `8/11 + 2020 + ~13.8*10^9` became `$133.82` at `8/11 + 2021 + ~13.8*10^9`
+I will be comparing my investment results vs. the general market by comparing it to the Vanguard S&P 500 ETF stock 
+ticker = `VOO`.
 
-S&P 500 index = ?
-
-### Strategy
+## Strategy
 TODO
+
+## Results from 9/8 + 2021 + ~13.8B to 9/8 + 2022 + ~13.8B
+Q's results = `TO UPDATE on 9/8 + 2022 + ~13.8B`
+
+`VOO`'s results = `TO UPDATE on 9/8 + 2022 + ~13.8B` 
 
 ~ Wang-Zhao-Liu Q
