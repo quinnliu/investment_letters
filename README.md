@@ -1,5 +1,5 @@
 # Why 
-In the spirit of Warren Buffett & Charlie Munger I also plan on writing an annual investment letter detailing my investment strategy & results. As someone that had to & enjoys teaching myself how to became a value investor I hope this file saves you some 
+In the spirit of Warren Buffett & Charlie Munger I also plan on writing an annual investment letter detailing my investment strategy & results. As someone that enjoys teaching myself how to become a value investor I hope this file saves you some 
 time & provides extremely pratically useful information. 
 
 # How
@@ -9,17 +9,23 @@ All questions directed to me can be asked by creating an issue in this public re
 
 # What
 
-I'm officially starting this at spacetime = `9/8 + 2021 + 13.8*10^9` in Amarillo, Texas, USA, Earth.
+I'm officially starting this at spacetime = `9/8 + 2021 + ~13.8*10^9?` in Amarillo, Texas, USA, Earth.
 
 I will be comparing my investment results vs. the general market by comparing it to the Vanguard S&P 500 ETF stock 
-ticker = `VOO`.
+ticker = `VOO` & Warren & Charlie's Berkshire Hathaway stock ticker = `BRK.A`.
 
-## Strategy
-TODO
+## 10/23 + 2021 + ~13.8B -> 10/23 + 2022 + ~13.8B
 
-## Results from 9/8 + 2021 + ~13.8B to 9/8 + 2022 + ~13.8B
-Q's results = `TO UPDATE on 9/8 + 2022 + ~13.8B`
+### Portfolio value & results
+To be updated after 10/23 + 2021 + ~13.8B
 
-`VOO`'s results = `TO UPDATE on 9/8 + 2022 + ~13.8B` 
+Q's investments
+
+`VOO` = 
+
+`BRK.A` = 
+
+### Strategy
+To be updated after 10/23 + 2021 + ~13.8B
 
 ~ Wang-Zhao-Liu Q
