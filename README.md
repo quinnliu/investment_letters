@@ -33,20 +33,24 @@ To be updated after 10/23 + 2022 + ~13.8*10^9?
 
 ### Strategy from 10/23 + 2021 + ~13.8*10^9? to 1 year later
 I find value investing extremely fascinating because it requires one to predict
-which company of humans will improve in the future & which will not improve.
+which company of humans will improve net cash flows in the future using a
+sustainable strategy & thus become 1 component of many that logically increases
+the company's stock price per share.
 
-Sometimes this is extremely obvious with close to but never 100% probability.
+However, I've noticed it is often easier to solve this prediction problem in
+reverse as often it is extremely obvious with close to but never 100%
+probability you can predict which companies will lose net cash flows in the
+future using an unsustainable strategy. Then the wise behavior is to avoid
+these companies & keep avoiding these companies.
 
 Other times it is too complicated or outside of my current competence to
-predict.
+predict a companies future.
 
-At it's core I find predicting the future an extremely difficult problem but
-necessary to continually improve at.
+At it's core I find predicting the future an extremely difficult problem if
+your in a spacetime that your neocortex has a low detail model of. But as you
+keep learning & staying within your competences your model of how reality works
+becomes closer to reality as long as you are taking care of your body's health.
 
 How does one improve your body's ability to predict the future more accurately?
-
-For most of human history a human can improve it's ability to predict the future
-by imagining future possibilities within it's neocortex model of how
-reality works.
 
 ~ Wang-Zhao-Liu Q
