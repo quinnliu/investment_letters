@@ -1,8 +1,9 @@
 # Why
-In the spirit of Warren Buffett & Charlie Munger I also plan on writing an
-annual investment letter detailing my investment strategy & results. As someone
-that enjoys teaching myself how to become a value investor I hope this file
-saves you some time & provides extremely practically useful information.
+In the spirit of Warren Buffett, Charlie Munger, & companies that I
+admire I also plan on writing an annual investment letter detailing my
+investment strategy & results. As someone that enjoys teaching myself how to
+become a value investor I hope this file saves you some time & provides
+extremely practically useful information.
 
 # How
 All of my latest investment strategies that I'm open to sharing publicly will be
