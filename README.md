@@ -17,10 +17,6 @@ repo.
 I'm officially starting this at spacetime = `10/23 + 2021 + ~13.8*10^9?` in
 Amarillo, Texas, USA.
 
-I will be comparing my total investment results versus the general market by
-comparing it to the Vanguard S&P 500 ETF stock ticker = `VOO` & Warren &
-Charlie's Berkshire Hathaway stock ticker = `BRK.A`.
-
 ## 10/23 + 2021 + ~13.8*10^9? to 1 year later
 
 ### actively invested portfolio value & results
