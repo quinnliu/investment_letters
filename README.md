@@ -27,4 +27,4 @@ To be updated after 10/23 + 2022 + ~13.8*10^9?
 ### Strategy from 10/23 + 2021 + ~13.8*10^9? to 1 year later
 To be updated after 11/23 + 2022 + ~13.8*10^9?
 
-~ ?1 王-赵-刘 焕 青 Liu Huanqing Chingy Quinn Q ?2
+~ 王-赵-刘 焕 青 Q
