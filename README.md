@@ -1,7 +1,7 @@
 # Why
-In the spirit of companies that I
+In the memory of companies that I
 admire I also plan on writing an annual investment letter detailing my
-investment strategy & results. As someone that enjoys teaching myself how to
+investment results & strategies I'm open to sharing. As someone that enjoys teaching myself how to
 become a value investor I hope this file saves you some time & provides
 extremely practically useful information.
 
@@ -14,7 +14,7 @@ repo.
 
 # What
 
-I'm officially starting this at spacetime = `10/23 + 2021 + ~13.8*10^9?` in
+I'm starting this at spacetime = `10/23 + 2021 + ~13.8*10^9?` in
 Amarillo, Texas, USA.
 
 ## 10/23 + 2021 + ~13.8*10^9? to 1 year later
@@ -25,6 +25,6 @@ To be updated after 10/23 + 2022 + ~13.8*10^9?
 `Q's investments` =
 
 ### Strategy from 10/23 + 2021 + ~13.8*10^9? to 1 year later
-To be updated after 11/23 + 2022 + ~13.8*10^9?
+To be updated after 10/23 + 2022 + ~13.8*10^9?
 
 ~ ?1 王-赵-刘 焕 青 Chingy Quinn Q
